@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@100&family=Roboto+Mono:ital@0;1&display=swap');
+
+.bg-fundo{
+    background-color:rgba(86, 95, 82, 0.151);
+    
+  }
+  .bg-fundo2{
+     background-color: rgba(253, 217, 56, 0.219);
+  }
+  .fa-whatsapp{
+   color: rgb(54, 206, 23);
+   font-size: 22px;
+  }
+
+  .fa-whatsapp:hover{
+   color:red;
+   
+  }
+  body{
+  
+  }
+ 
+ 
